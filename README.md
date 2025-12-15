@@ -13,5 +13,6 @@ Python libraries (pandas, seaborn, scipy, statsmodels)
 
 Major Findings -
 
-Amyloid-β and tau significantly differ with AD severity, and levels can be used to indicate late-onset AD in Minor Cognitive Impairment cases
+Amyloid-β and tau significantly differ with AD severity, and levels can be used to indicate late-onset AD as well as distinguish Minor Cognitive Impairment cases
+
 ApoE4 allele seems to be the most influential factor for AD, especially in late-onset AD due to its effects on Aβ and tau pathology,
