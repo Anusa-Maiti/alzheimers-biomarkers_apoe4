@@ -1,0 +1,199 @@
+Sample,Diagnostic,Sex,Age,MMSE,CSF Amyloid (pg/mL),CSF Total tau (pg/mL),CSF Phosphorylated tau (pg/mL),APOE4,Progression to Alzheimers,Progression time (months)
+1,Alzheimer's Disease,Female,68,26,688.0,369.0,107.0,Yes,Current,
+2,Alzheimer's Disease,Female,66,22,489.0,482.0,176.0,Yes,Current,
+3,Alzheimer's Disease,Female,72,23,509.0,329.0,114.0,Yes,Current,
+4,Alzheimer's Disease,Male,73,25,544.0,482.0,80.0,No,Current,
+5,Alzheimer's Disease,Female,75,15,303.0,806.0,120.0,No,Current,
+6,Alzheimer's Disease,Female,83,27,520.0,501.0,67.0,No,Current,
+7,Alzheimer's Disease,Male,76,22,243.0,686.0,94.0,Yes,Current,
+9,Alzheimer's Disease,Female,80,25,571.0,620.0,96.0,No,Current,
+10,Alzheimer's Disease,Female,85,24,564.0,1109.0,128.0,No,Current,
+12,Alzheimer's Disease,Female,79,25,520.0,559.0,81.0,No,Current,
+13,Alzheimer's Disease,Female,79,20,496.0,566.0,79.0,Yes,Current,
+14,Alzheimer's Disease,Female,73,21,451.0,327.0,54.0,No,Current,
+15,Alzheimer's Disease,Male,74,21,450.0,333.0,52.0,No,Current,
+16,Alzheimer's Disease,Female,82,22,429.0,1550.0,158.0,No,Current,
+17,Alzheimer's Disease,Female,63,27,297.0,433.0,93.0,Yes,Current,
+18,Alzheimer's Disease,Male,73,23,430.0,575.0,91.0,Yes,Current,
+19,Alzheimer's Disease,Female,82,25,544.0,949.0,115.0,No,Current,
+20,Alzheimer's Disease,Male,75,21,735.0,1022.0,117.0,No,Current,
+21,Alzheimer's Disease,Male,80,24,272.0,229.0,38.0,Yes,Current,
+22,Alzheimer's Disease,Female,78,25,400.0,494.0,72.0,Yes,Current,
+23,Alzheimer's Disease,Male,77,24,285.0,218.0,50.0,Yes,Current,
+24,Alzheimer's Disease,Female,81,26,583.0,153.0,37.0,No,Current,
+25,Alzheimer's Disease,Female,73,26,584.0,429.0,78.0,Yes,Current,
+26,Alzheimer's Disease,Female,72,24,464.0,474.0,202.0,Yes,Current,
+27,Alzheimer's Disease,Female,82,23,692.0,397.0,63.0,No,Current,
+28,Alzheimer's Disease,Female,79,26,586.0,463.0,74.0,Yes,Current,
+29,Alzheimer's Disease,Female,72,23,605.0,891.0,92.0,No,Current,
+30,Alzheimer's Disease,Female,83,29,345.0,391.0,81.0,Yes,Current,
+31,Alzheimer's Disease,Female,84,27,408.0,568.0,71.0,Yes,Current,
+32,Alzheimer's Disease,Female,81,22,699.0,480.0,73.0,No,Current,
+33,Alzheimer's Disease,Male,77,25,501.0,464.0,72.0,Yes,Current,
+35,Alzheimer's Disease,Female,79,21,493.0,705.0,88.0,Yes,Current,
+36,Alzheimer's Disease,Female,83,21,1758.0,439.0,71.0,No,Current,
+37,Alzheimer's Disease,Female,80,20,628.0,484.0,66.0,No,Current,
+38,Alzheimer's Disease,Male,63,21,637.0,449.0,69.0,No,Current,
+39,Alzheimer's Disease,Female,73,27,684.0,591.0,90.0,Yes,Current,
+41,Alzheimer's Disease,Female,79,25,711.0,538.0,82.0,No,Current,
+42,Alzheimer's Disease,Female,66,24,555.0,422.0,68.0,Yes,Current,
+43,Alzheimer's Disease,Male,85,24,328.0,210.0,39.0,No,Current,
+44,Alzheimer's Disease,Male,81,27,289.0,478.0,81.0,Yes,Current,
+45,Alzheimer's Disease,Female,71,25,401.0,412.0,68.0,Yes,Current,
+46,Alzheimer's Disease,Male,80,22,249.0,282.0,54.0,Yes,Current,
+47,Alzheimer's Disease,Male,80,23,344.0,357.0,64.0,No,Current,
+48,Alzheimer's Disease,Male,75,24,532.0,576.0,87.0,Yes,Current,
+49,Alzheimer's Disease,Female,80,23,271.0,850.0,133.0,Yes,Current,
+50,Alzheimer's Disease,Male,82,21,432.0,282.0,56.0,Yes,Current,
+52,Alzheimer's Disease,Male,81,23,479.0,1225.0,199.0,No,Current,
+53,Alzheimer's Disease,Female,70,26,562.0,559.0,95.0,Yes,Current,
+54,Alzheimer's Disease,Male,80,24,431.0,248.0,47.0,Yes,Current,
+55,Alzheimer's Disease,Male,78,21,484.0,199.0,41.0,No,Current,
+57,Alzheimer's Disease,Female,73,22,306.0,494.0,75.0,Yes,Current,
+58,Alzheimer's Disease,Male,76,27,363.0,860.0,136.0,Yes,Current,
+59,Alzheimer's Disease,Male,80,26,532.0,706.0,107.0,Yes,Current,
+60,Alzheimer's Disease,Male,65,21,1213.0,371.0,65.0,Yes,Current,
+61,Alzheimer's Disease,Male,60,22,417.0,239.0,43.0,Yes,Current,
+62,Alzheimer's Disease,Female,84,26,519.0,270.0,47.0,No,Current,
+64,Alzheimer's Disease,Female,76,21,635.0,627.0,92.0,No,Current,
+65,Mild Cognitive Impairment,Male,69,23,595.0,465.0,75.0,No,No,
+66,Alzheimer's Disease,Female,71,24,481.0,728.0,93.0,Yes,Current,
+67,Alzheimer's Disease,Male,72,24,337.0,636.0,81.0,Yes,Current,
+69,Alzheimer's Disease,Female,72,24,556.0,674.0,91.0,No,Current,
+70,Alzheimer's Disease,Female,79,23,393.0,1024.0,143.0,No,Current,
+71,Alzheimer's Disease,Female,78,21,365.0,971.0,115.0,No,Current,
+72,Alzheimer's Disease,Female,81,23,597.0,264.0,47.0,No,Current,
+74,Alzheimer's Disease,Male,74,23,678.0,374.0,52.0,No,Current,
+75,Alzheimer's Disease,Female,83,23,362.0,618.0,78.0,No,Current,
+76,Alzheimer's Disease,Male,80,20,269.0,360.0,48.0,No,Current,
+78,Alzheimer's Disease,Female,72,24,419.0,291.0,48.0,No,Current,
+81,Alzheimer's Disease,Male,74,29,344.0,1042.0,483.0,Yes,Current,
+82,Alzheimer's Disease,Male,70,25,483.0,727.0,82.0,Yes,Current,
+83,Alzheimer's Disease,Female,74,25,610.0,889.0,93.0,Yes,Current,
+84,Alzheimer's Disease,Female,63,20,497.0,942.0,118.0,Yes,Current,
+85,Alzheimer's Disease,Male,75,22,550.0,803.0,121.0,No,Current,
+86,Alzheimer's Disease,Female,65,22,484.0,601.0,90.0,Yes,Current,
+87,Alzheimer's Disease,Male,69,24,420.0,681.0,98.0,Yes,Current,
+88,Alzheimer's Disease,Male,75,24,609.0,509.0,82.0,No,Current,
+89,Alzheimer's Disease,Male,73,25,405.0,707.0,106.0,No,Current,
+90,Alzheimer's Disease,Female,71,23,338.0,551.0,78.0,No,Current,
+91,Alzheimer's Disease,Female,76,21,864.0,331.0,53.0,No,Current,
+92,Alzheimer's Disease,Female,74,20,398.0,314.0,58.0,Yes,Current,
+93,Alzheimer's Disease,Male,73,26,642.0,619.0,97.0,Yes,Current,
+94,Alzheimer's Disease,Male,72,22,339.0,101.0,28.0,Yes,Current,
+95,Alzheimer's Disease,Female,70,21,552.0,729.0,103.0,Yes,Current,
+96,Alzheimer's Disease,Male,78,20,566.0,1246.0,146.0,No,Current,
+97,Alzheimer's Disease,Female,81,23,693.0,317.0,52.0,No,Current,
+98,Alzheimer's Disease,Female,74,20,512.0,739.0,98.0,No,Current,
+99,Alzheimer's Disease,Male,76,22,578.0,137.0,27.1,No,Current,
+100,Alzheimer's Disease,Female,79,19,395.0,377.0,54.8,No,Current,
+101,Alzheimer's Disease,Female,71,28,556.0,257.0,48.1,Yes,Current,
+102,Alzheimer's Disease,Female,70,25,354.0,312.0,53.8,Yes,Current,
+103,Alzheimer's Disease,Male,79,25,755.0,685.0,86.3,No,Current,
+104,Alzheimer's Disease,Male,84,24,402.0,371.0,49.0,Yes,Current,
+105,Mild Cognitive Impairment,Male,70,27,1845.0,353.0,92.4,No,No,
+106,Mild Cognitive Impairment,Female,73,29,928.0,531.0,176.0,No,No,
+107,Mild Cognitive Impairment,Female,68,23,619.0,477.0,142.0,Yes,Yes,14.0
+108,Mild Cognitive Impairment,Male,78,27,784.0,1231.0,394.0,No,No,
+109,Mild Cognitive Impairment,Male,75,26,670.0,296.0,89.7,No,No,
+110,Mild Cognitive Impairment,Male,64,27,1592.0,215.0,56.1,No,No,
+111,Mild Cognitive Impairment,Female,77,27,435.0,292.0,79.8,Yes,Yes,36.0
+112,Mild Cognitive Impairment,Female,59,26,435.0,1047.0,127.0,Yes,Yes,8.0
+113,Mild Cognitive Impairment,Female,67,29,872.0,195.0,43.6,No,No,
+114,Mild Cognitive Impairment,Male,75,29,497.0,317.0,58.2,Yes,No,
+115,Mild Cognitive Impairment,Male,78,28,392.0,522.0,67.7,Yes,Yes,15.0
+116,Mild Cognitive Impairment,Male,68,29,374.0,807.0,113.0,Yes,Yes,20.0
+117,Mild Cognitive Impairment,Female,79,25,655.0,713.0,98.3,Yes,Yes,23.0
+118,Mild Cognitive Impairment,Male,71,27,478.0,778.0,107.0,Yes,Yes,23.0
+119,Mild Cognitive Impairment,Female,64,29,929.0,216.0,41.0,No,No,
+120,Mild Cognitive Impairment,Male,81,26,582.0,334.0,55.7,No,No,
+121,Mild Cognitive Impairment,Female,71,24,365.0,563.0,85.3,Yes,Yes,17.0
+122,Mild Cognitive Impairment,Male,68,28,958.0,165.0,33.8,No,No,
+123,Mild Cognitive Impairment,Male,64,26,270.0,279.0,50.9,Yes,Yes,36.0
+124,Mild Cognitive Impairment,Male,73,27,1070.0,265.0,48.1,No,Yes,55.0
+125,Mild Cognitive Impairment,Female,79,28,257.0,791.0,117.0,No,Yes,23.0
+126,Mild Cognitive Impairment,Male,70,27,798.0,542.0,88.6,No,No,
+127,Mild Cognitive Impairment,Male,85,22,1175.0,229.0,46.4,No,Yes,22.0
+128,Mild Cognitive Impairment,Female,78,25,327.0,440.0,65.3,No,Yes,12.0
+129,Mild Cognitive Impairment,Female,79,27,528.0,633.0,75.7,No,Yes,7.0
+130,Mild Cognitive Impairment,Male,72,30,413.0,439.0,65.6,Yes,No,
+131,Mild Cognitive Impairment,Female,71,25,627.0,1284.0,150.0,Yes,Yes,24.0
+132,Mild Cognitive Impairment,Female,79,22,308.0,235.0,40.7,Yes,Yes,12.0
+133,Mild Cognitive Impairment,Female,81,24,290.0,385.0,60.8,Yes,Yes,42.0
+134,Mild Cognitive Impairment,Male,78,25,562.0,487.0,70.5,Yes,Yes,12.0
+135,Mild Cognitive Impairment,Male,65,28,485.0,709.0,105.0,Yes,Yes,40.0
+136,Mild Cognitive Impairment,Male,77,29,1006.0,628.0,88.8,No,Yes,18.0
+137,Mild Cognitive Impairment,Male,60,23,1005.0,146.0,78.1,No,Yes,49.0
+138,Mild Cognitive Impairment,Male,75,27,1060.0,378.0,69.4,No,Yes,53.0
+139,Mild Cognitive Impairment,Male,61,25,874.0,131.0,34.6,No,Yes,16.0
+140,Mild Cognitive Impairment,Male,78,28,513.0,147.0,33.8,No,No,
+141,Mild Cognitive Impairment,Female,78,24,390.0,259.0,512.0,No,Yes,11.0
+142,Mild Cognitive Impairment,Female,75,27,879.0,198.0,38.1,Yes,No,
+143,Mild Cognitive Impairment,Female,76,27,369.0,187.0,41.3,Yes,Yes,16.0
+144,Mild Cognitive Impairment,Female,78,21,647.0,326.0,58.6,No,No,
+145,Mild Cognitive Impairment,Female,78,28,864.0,169.0,37.9,No,No,
+146,Mild Cognitive Impairment,Male,72,28,704.0,273.0,56.6,No,No,
+147,Mild Cognitive Impairment,Female,76,28,634.0,728.0,120.0,No,Yes,14.0
+148,Mild Cognitive Impairment,Female,76,19,1135.0,316.0,63.9,No,No,
+149,Mild Cognitive Impairment,Female,73,27,833.0,169.0,39.7,No,No,
+150,Mild Cognitive Impairment,Female,70,15,422.0,675.0,115.0,Yes,Yes,15.0
+151,Mild Cognitive Impairment,Male,78,29,1107.0,356.0,63.2,No,No,
+152,Mild Cognitive Impairment,Male,59,28,395.0,286.0,51.5,No,No,
+153,Mild Cognitive Impairment,Female,78,23,403.0,898.0,124.0,Yes,Yes,16.0
+154,Mild Cognitive Impairment,Female,70,29,1240.0,169.0,39.6,No,No,
+155,Mild Cognitive Impairment,Male,80,27,499.0,514.0,77.0,Yes,No,
+156,Mild Cognitive Impairment,Female,77,27,829.0,236.0,50.6,No,No,
+157,Mild Cognitive Impairment,Female,74,25,389.0,525.0,69.7,Yes,Yes,25.0
+158,Mild Cognitive Impairment,Female,73,27,549.0,409.0,64.4,Yes,Yes,35.0
+159,Mild Cognitive Impairment,Male,72,28,550.0,585.0,78.8,Yes,Yes,14.0
+160,Mild Cognitive Impairment,Female,80,28,576.0,600.0,97.3,Yes,Yes,8.0
+161,Mild Cognitive Impairment,Female,73,26,326.0,406.0,62.3,Yes,Yes,7.0
+162,Mild Cognitive Impairment,Female,76,29,441.0,169.0,41.0,No,No,
+163,Mild Cognitive Impairment,Male,73,25,865.0,416.0,65.6,No,No,
+164,Mild Cognitive Impairment,Male,78,27,424.0,215.0,41.5,No,Yes,8.0
+165,Mild Cognitive Impairment,Male,78,26,670.0,254.0,45.3,No,No,
+166,Mild Cognitive Impairment,Male,72,29,422.0,436.0,64.8,Yes,Yes,12.0
+167,Mild Cognitive Impairment,Female,74,28,533.0,454.0,68.4,Yes,No,
+168,Mild Cognitive Impairment,Female,69,25,1237.0,242.0,46.1,No,No,
+169,Mild Cognitive Impairment,Male,63,29,886.0,186.0,32.3,Yes,No,
+170,Mild Cognitive Impairment,Female,69,23,642.0,332.0,56.1,No,No,
+171,Mild Cognitive Impairment,Male,62,23,505.0,202.0,37.1,No,Yes,15.0
+172,Mild Cognitive Impairment,Female,69,25,604.0,958.0,119.0,Yes,Yes,10.0
+173,Mild Cognitive Impairment,Male,76,28,841.0,212.0,33.3,No,Yes,10.0
+174,Mild Cognitive Impairment,Male,70,20,662.0,247.0,44.7,No,Yes,12.0
+175,Mild Cognitive Impairment,Female,67,28,544.0,729.0,87.1,Yes,Yes,13.0
+176,Mild Cognitive Impairment,Male,71,27,887.0,265.0,48.4,No,No,
+177,Mild Cognitive Impairment,Female,65,29,656.0,222.0,38.5,No,No,
+178,Mild Cognitive Impairment,Male,70,27,456.0,232.0,37.1,Yes,No,
+180,Mild Cognitive Impairment,Female,75,24,275.0,171.0,42.2,Yes,Yes,27.0
+181,Mild Cognitive Impairment,Female,74,28,1419.0,289.0,53.9,No,No,
+182,Mild Cognitive Impairment,Male,72,29,830.0,261.0,65.9,No,No,
+183,Mild Cognitive Impairment,Female,76,28,689.0,350.0,63.5,Yes,No,
+184,Mild Cognitive Impairment,Female,69,25,461.0,546.0,82.8,Yes,Yes,9.0
+185,Mild Cognitive Impairment,Female,69,27,960.0,127.0,24.1,No,No,
+186,Mild Cognitive Impairment,Female,63,21,805.0,231.0,41.2,No,No,
+187,Mild Cognitive Impairment,Male,74,27,441.0,931.0,139.0,Yes,Yes,8.0
+188,Mild Cognitive Impairment,Male,75,25,465.0,67.1,22.4,No,No,
+189,Mild Cognitive Impairment,Male,70,27,965.0,408.0,52.7,Yes,Yes,25.0
+191,Mild Cognitive Impairment,Female,77,22,314.0,692.0,84.4,Yes,Yes,19.0
+192,Mild Cognitive Impairment,Male,67,29,584.0,153.0,27.4,,Yes,19.0
+193,Control,Female,69,29,3863.0,1030.0,232.0,No,No,
+194,Control,Female,57,30,1704.0,127.0,27.3,No,No,
+195,Control,Male,65,30,1363.0,426.0,74.9,No,No,
+196,Control,Female,80,30,1299.0,308.0,61.9,No,No,
+197,Control,Male,75,30,1186.0,345.0,63.6,No,No,
+198,Control,Male,70,26,586.0,90.7,25.4,No,No,
+199,Control,Male,52,30,1442.0,249.0,44.9,No,No,
+200,Control,Female,64,30,1420.0,567.0,85.6,No,No,
+201,Control,Female,61,30,864.0,131.0,30.2,No,No,
+202,Control,Male,52,30,925.0,137.0,34.8,No,No,
+203,Control,Male,66,28,606.0,212.0,49.9,Yes,No,
+204,Control,Male,61,28,563.0,145.0,31.9,Yes,No,
+205,Control,Female,73,22,1032.0,163.0,30.1,No,No,
+206,Control,Male,64,30,662.0,247.0,44.7,No,No,
+207,Control,Female,75,27,1029.0,187.0,30.5,No,No,
+208,Control,Female,74,28,1004.0,314.0,58.8,No,No,
+209,Control,Female,76,28,1215.0,312.0,51.7,No,No,
+210,Control,Female,67,30,470.0,86.2,15.6,No,No,
+211,Control,Male,71,29,712.0,463.0,87.3,No,No,
+212,Control,Male,69,22,291.0,288.0,45.2,,No,
